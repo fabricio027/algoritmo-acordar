@@ -1,0 +1,11 @@
+INICIO
+  Se (horario == 08:00)
+    1. Despertador toca
+    2. Abrir os olhos
+    3. Desligar Despertador
+    4. Levantar da cama
+    5. Arrumar a cama
+    6. Escovar os dentes
+  Senao
+    1. Continuar dormindo
+FIM
